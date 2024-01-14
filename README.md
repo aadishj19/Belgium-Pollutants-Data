@@ -1,7 +1,5 @@
 # Belgium Air Pollution Data Analysis
 
-Certainly! Here's how you can hyperlink the text "here" in the README.md file:
-
 To render the interactive maps, [click here to run the ipynb](https://nbviewer.org/github/aadishj19/Belgium-Pollutants-Data/blob/main/Belgium_Air_Pollutants.ipynb#).
 
 This Jupyter Notebook showcases an analysis of air pollution data in Belgium. It utilizes the `folium` library to create interactive maps, visualizing the distribution of pollutants across different cities in Belgium.
