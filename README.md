@@ -40,7 +40,12 @@ The notebook performs the following steps:
    - Defines functions to plot maps using `folium` and `CircleMarker`
    - Creates interactive maps to showcase the spatial distribution of PM10 and SO2 pollutants
 
-4. For interactive maps, note that they might not be fully rendered on GitHub. Please use `nbviewer` to view the notebook with interactive maps.
+4. For interactive maps, note that they might not be fully rendered on GitHub. Please use `nbviewer` link above to view the notebook with interactive maps.
+
+## Plots
+![image](https://github.com/aadishj19/Belgium-Pollutants-Data/assets/84670503/92d2c086-a1b1-49d3-a214-f41ea4bd2334)
+![image](https://github.com/aadishj19/Belgium-Pollutants-Data/assets/84670503/3f2b2bda-3a38-42f7-8aab-814394b1032d)
+
 
 ## Conclusion
 
