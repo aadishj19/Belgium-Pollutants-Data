@@ -44,6 +44,7 @@ The notebook performs the following steps:
 
 ## Plots
 ![image](https://github.com/aadishj19/Belgium-Pollutants-Data/assets/84670503/92d2c086-a1b1-49d3-a214-f41ea4bd2334)
+
 ![image](https://github.com/aadishj19/Belgium-Pollutants-Data/assets/84670503/3f2b2bda-3a38-42f7-8aab-814394b1032d)
 
 
