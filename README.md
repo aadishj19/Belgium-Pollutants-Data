@@ -49,6 +49,4 @@ The notebook performs the following steps:
 
 ## Conclusion
 
-This project demonstrates how to analyze air pollution data and visualize it using `folium` in Python. By leveraging the power of data analysis and interactive visualizations, we can gain insights into the distribution of air pollutants in Belgium.
-
-Feel free to explore the notebook and interact with the maps to gain a better understanding of the air pollution scenario in different cities.
+This project demonstrates how to analyze air pollution data and visualize it using `folium` in Python. Feel free to explore the notebook and interact with the maps to gain a better understanding of the air pollution scenario in different cities.
