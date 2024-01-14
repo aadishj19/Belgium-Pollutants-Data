@@ -1,3 +1,51 @@
-# Belgium-Pollutants-Data
+# Belgium Air Pollution Data Analysis
 
-https://nbviewer.org/github/aadishj19/Belgium-Pollutants-Data/blob/main/Belgium_Air_Pollutants.ipynb#
+Certainly! Here's how you can hyperlink the text "here" in the README.md file:
+
+To render the interactive maps, [click here to run the ipynb](https://nbviewer.org/github/aadishj19/Belgium-Pollutants-Data/blob/main/Belgium_Air_Pollutants.ipynb#).
+
+This Jupyter Notebook showcases an analysis of air pollution data in Belgium. It utilizes the `folium` library to create interactive maps, visualizing the distribution of pollutants across different cities in Belgium.
+
+## Project Overview
+
+The main goals of this project are:
+- Analyze air pollution data in Belgium
+- Visualize the average values of pollutants (PM10 and SO2) by city
+- Create interactive maps to display the spatial distribution of pollutants using `folium` 
+
+## Data
+
+The air pollution data is sourced from a CSV file named `data.csv`, which contains the following columns:
+
+- `City`: The name of the city
+- `Location`: The specific location within the city
+- `Coordinates`: Latitude and Longitude coordinates of the location
+- `Pollutant`: Type of pollutant (PM10 or SO2)
+- `Value`: Pollutant value (in μg/m³)
+- `Last Updated`: Date of the last update
+
+## Analysis and Visualization
+
+The notebook performs the following steps:
+
+1. Data preprocessing:
+   - Removes unnecessary columns
+   - Extracts latitude and longitude values from the 'Coordinates' column
+   - Converts latitude and longitude columns to float
+   - Converts 'Last Updated' column to a datetime object and extracts the year
+   
+2. Data analysis and visualization:
+   - Calculates the average PM10 and SO2 pollutant values by city
+   - Plots bar charts to visualize the average pollutant values by city using Matplotlib
+   
+3. Interactive map creation:
+   - Defines functions to plot maps using `folium` and `CircleMarker`
+   - Creates interactive maps to showcase the spatial distribution of PM10 and SO2 pollutants
+
+4. For interactive maps, note that they might not be fully rendered on GitHub. Please use `nbviewer` to view the notebook with interactive maps.
+
+## Conclusion
+
+This project demonstrates how to analyze air pollution data and visualize it using `folium` in Python. By leveraging the power of data analysis and interactive visualizations, we can gain insights into the distribution of air pollutants in Belgium.
+
+Feel free to explore the notebook and interact with the maps to gain a better understanding of the air pollution scenario in different cities.
