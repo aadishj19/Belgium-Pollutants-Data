@@ -13,7 +13,7 @@ The main goals of this project are:
 
 ## Data
 
-The air pollution data is sourced from a CSV file named `data.csv`, which contains the following columns:
+The air pollution data is sourced from Kaggle: [click here](https://www.kaggle.com/datasets/bouweceunen/air-quality-belgium/data)
 
 - `City`: The name of the city
 - `Location`: The specific location within the city
